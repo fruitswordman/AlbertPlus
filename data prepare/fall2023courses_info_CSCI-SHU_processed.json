@@ -1,0 +1,1601 @@
+[
+    {
+        "key": "12069",
+        "mpkey": "8486",
+        "stat": "A",
+        "code": "CSCI-SHU 101",
+        "section": "001",
+        "crn": "17798",
+        "title": "Introduction to Computer and Data Science",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course has three goals. First, the mastering of a modern object-oriented programming language, enough to allow students to tackle real-world problems of important significance. Second, gaining an appreciation of computational thinking, a process that provides the foundations for solving real-world problems. Finally, providing an overview of the very diverse and exciting field of computer science - a field which, arguably more than any other, impacts how we work, live, and play today. Prerequisite: Introduction to Computer Programming or placement exam. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20101\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 101\" >CSCI-UA 101</a>. Fulfillment: Core Curriculum Requirement Algorithmic Thinking; Computer Science Major Required Courses; Computer Systems Engineering Major Required Courses; Data Science Major Foundational Courses; Electrical and Systems Engineering Major Required Major Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:17798",
+                "Section #:001",
+                "Meets:M 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17799",
+                "Section #:002",
+                "Meets:T 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17800",
+                "Section #:003",
+                "Meets:W 1:15-3:05p",
+                "Instructor:W. Yin"
+            ],
+            [
+                "Class #:18492",
+                "Section #:004",
+                "Meets:R 3:15-5:05p",
+                "Instructor:W. Yin"
+            ]
+        ]
+    },
+    {
+        "key": "12070",
+        "mpkey": "4567",
+        "stat": "A",
+        "code": "CSCI-SHU 101",
+        "section": "002",
+        "crn": "17799",
+        "title": "Introduction to Computer and Data Science",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course has three goals. First, the mastering of a modern object-oriented programming language, enough to allow students to tackle real-world problems of important significance. Second, gaining an appreciation of computational thinking, a process that provides the foundations for solving real-world problems. Finally, providing an overview of the very diverse and exciting field of computer science - a field which, arguably more than any other, impacts how we work, live, and play today. Prerequisite: Introduction to Computer Programming or placement exam. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20101\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 101\" >CSCI-UA 101</a>. Fulfillment: Core Curriculum Requirement Algorithmic Thinking; Computer Science Major Required Courses; Computer Systems Engineering Major Required Courses; Data Science Major Foundational Courses; Electrical and Systems Engineering Major Required Major Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:17798",
+                "Section #:001",
+                "Meets:M 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17799",
+                "Section #:002",
+                "Meets:T 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17800",
+                "Section #:003",
+                "Meets:W 1:15-3:05p",
+                "Instructor:W. Yin"
+            ],
+            [
+                "Class #:18492",
+                "Section #:004",
+                "Meets:R 3:15-5:05p",
+                "Instructor:W. Yin"
+            ]
+        ]
+    },
+    {
+        "key": "12071",
+        "mpkey": "8487",
+        "stat": "A",
+        "code": "CSCI-SHU 101",
+        "section": "003",
+        "crn": "17800",
+        "title": "Introduction to Computer and Data Science",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course has three goals. First, the mastering of a modern object-oriented programming language, enough to allow students to tackle real-world problems of important significance. Second, gaining an appreciation of computational thinking, a process that provides the foundations for solving real-world problems. Finally, providing an overview of the very diverse and exciting field of computer science - a field which, arguably more than any other, impacts how we work, live, and play today. Prerequisite: Introduction to Computer Programming or placement exam. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20101\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 101\" >CSCI-UA 101</a>. Fulfillment: Core Curriculum Requirement Algorithmic Thinking; Computer Science Major Required Courses; Computer Systems Engineering Major Required Courses; Data Science Major Foundational Courses; Electrical and Systems Engineering Major Required Major Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:17798",
+                "Section #:001",
+                "Meets:M 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17799",
+                "Section #:002",
+                "Meets:T 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17800",
+                "Section #:003",
+                "Meets:W 1:15-3:05p",
+                "Instructor:W. Yin"
+            ],
+            [
+                "Class #:18492",
+                "Section #:004",
+                "Meets:R 3:15-5:05p",
+                "Instructor:W. Yin"
+            ]
+        ]
+    },
+    {
+        "key": "12072",
+        "mpkey": "4568",
+        "stat": "A",
+        "code": "CSCI-SHU 101",
+        "section": "004",
+        "crn": "18492",
+        "title": "Introduction to Computer and Data Science",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course has three goals. First, the mastering of a modern object-oriented programming language, enough to allow students to tackle real-world problems of important significance. Second, gaining an appreciation of computational thinking, a process that provides the foundations for solving real-world problems. Finally, providing an overview of the very diverse and exciting field of computer science - a field which, arguably more than any other, impacts how we work, live, and play today. Prerequisite: Introduction to Computer Programming or placement exam. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20101\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 101\" >CSCI-UA 101</a>. Fulfillment: Core Curriculum Requirement Algorithmic Thinking; Computer Science Major Required Courses; Computer Systems Engineering Major Required Courses; Data Science Major Foundational Courses; Electrical and Systems Engineering Major Required Major Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:17798",
+                "Section #:001",
+                "Meets:M 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17799",
+                "Section #:002",
+                "Meets:T 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:17800",
+                "Section #:003",
+                "Meets:W 1:15-3:05p",
+                "Instructor:W. Yin"
+            ],
+            [
+                "Class #:18492",
+                "Section #:004",
+                "Meets:R 3:15-5:05p",
+                "Instructor:W. Yin"
+            ]
+        ]
+    },
+    {
+        "key": "13085",
+        "mpkey": "17897",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "001",
+        "crn": "18495",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "13086",
+        "mpkey": "20419",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "002",
+        "crn": "18496",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Laboratory",
+        "status": "Active",
+        "component": "Laboratory",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "13087",
+        "mpkey": "20419",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "003",
+        "crn": "18497",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Laboratory",
+        "status": "Active",
+        "component": "Laboratory",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "13088",
+        "mpkey": "4568",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "005",
+        "crn": "18499",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Laboratory",
+        "status": "Active",
+        "component": "Laboratory",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "13089",
+        "mpkey": "4568",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "006",
+        "crn": "18500",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Laboratory",
+        "status": "Active",
+        "component": "Laboratory",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "13090",
+        "mpkey": "14281",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "008",
+        "crn": "18502",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Laboratory",
+        "status": "Active",
+        "component": "Laboratory",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "13091",
+        "mpkey": "14281",
+        "stat": "A",
+        "code": "CSCI-SHU 11",
+        "section": "009",
+        "crn": "18503",
+        "title": "Introduction to Computer Programming",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Laboratory",
+        "status": "Active",
+        "component": "Laboratory",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science. Prerequisite: Either placed into Calculus or at least a C in Pre-Calculus Fulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses. Note: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18495",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18496",
+                "Section #:002",
+                "Meets:R 9:45-11:35a",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18497",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:C. Zhao"
+            ],
+            [
+                "Class #:18499",
+                "Section #:005",
+                "Meets:R 3:15-5:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18500",
+                "Section #:006",
+                "Meets:R 3:15-5:05p",
+                "Instructor:L. Xu"
+            ],
+            [
+                "Class #:18502",
+                "Section #:008",
+                "Meets:F 1:15-3:05p",
+                "Instructor:X. Gu"
+            ],
+            [
+                "Class #:18503",
+                "Section #:009",
+                "Meets:F 1:15-3:05p",
+                "Instructor:C. Zhao"
+            ]
+        ]
+    },
+    {
+        "key": "12073",
+        "mpkey": "17897",
+        "stat": "A",
+        "code": "CSCI-SHU 210",
+        "section": "001",
+        "crn": "18504",
+        "title": "Data Structures",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Data structures are fundamental programming constructs which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. Prerequisite: ICS or A- in ICP. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20102\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 102\" >CSCI-UA 102</a> Data Structures (NY). Fulfillment: CS Required, Data Science Required, CE Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18504",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18505",
+                "Section #:002",
+                "Meets:M 4:15-6:05p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18506",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18507",
+                "Section #:004",
+                "Meets:W 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18508",
+                "Section #:005",
+                "Meets:F 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18509",
+                "Section #:006",
+                "Meets:W 8:45-10:35a",
+                "Instructor:S. Simikin"
+            ]
+        ]
+    },
+    {
+        "key": "12074",
+        "mpkey": "12535",
+        "stat": "A",
+        "code": "CSCI-SHU 210",
+        "section": "002",
+        "crn": "18505",
+        "title": "Data Structures",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Data structures are fundamental programming constructs which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. Prerequisite: ICS or A- in ICP. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20102\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 102\" >CSCI-UA 102</a> Data Structures (NY). Fulfillment: CS Required, Data Science Required, CE Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18504",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18505",
+                "Section #:002",
+                "Meets:M 4:15-6:05p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18506",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18507",
+                "Section #:004",
+                "Meets:W 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18508",
+                "Section #:005",
+                "Meets:F 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18509",
+                "Section #:006",
+                "Meets:W 8:45-10:35a",
+                "Instructor:S. Simikin"
+            ]
+        ]
+    },
+    {
+        "key": "12075",
+        "mpkey": "20419",
+        "stat": "A",
+        "code": "CSCI-SHU 210",
+        "section": "003",
+        "crn": "18506",
+        "title": "Data Structures",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Data structures are fundamental programming constructs which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. Prerequisite: ICS or A- in ICP. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20102\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 102\" >CSCI-UA 102</a> Data Structures (NY). Fulfillment: CS Required, Data Science Required, CE Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18504",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18505",
+                "Section #:002",
+                "Meets:M 4:15-6:05p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18506",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18507",
+                "Section #:004",
+                "Meets:W 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18508",
+                "Section #:005",
+                "Meets:F 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18509",
+                "Section #:006",
+                "Meets:W 8:45-10:35a",
+                "Instructor:S. Simikin"
+            ]
+        ]
+    },
+    {
+        "key": "12076",
+        "mpkey": "12537",
+        "stat": "A",
+        "code": "CSCI-SHU 210",
+        "section": "004",
+        "crn": "18507",
+        "title": "Data Structures",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Data structures are fundamental programming constructs which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. Prerequisite: ICS or A- in ICP. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20102\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 102\" >CSCI-UA 102</a> Data Structures (NY). Fulfillment: CS Required, Data Science Required, CE Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18504",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18505",
+                "Section #:002",
+                "Meets:M 4:15-6:05p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18506",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18507",
+                "Section #:004",
+                "Meets:W 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18508",
+                "Section #:005",
+                "Meets:F 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18509",
+                "Section #:006",
+                "Meets:W 8:45-10:35a",
+                "Instructor:S. Simikin"
+            ]
+        ]
+    },
+    {
+        "key": "12077",
+        "mpkey": "7493",
+        "stat": "A",
+        "code": "CSCI-SHU 210",
+        "section": "005",
+        "crn": "18508",
+        "title": "Data Structures",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Data structures are fundamental programming constructs which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. Prerequisite: ICS or A- in ICP. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20102\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 102\" >CSCI-UA 102</a> Data Structures (NY). Fulfillment: CS Required, Data Science Required, CE Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18504",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18505",
+                "Section #:002",
+                "Meets:M 4:15-6:05p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18506",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18507",
+                "Section #:004",
+                "Meets:W 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18508",
+                "Section #:005",
+                "Meets:F 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18509",
+                "Section #:006",
+                "Meets:W 8:45-10:35a",
+                "Instructor:S. Simikin"
+            ]
+        ]
+    },
+    {
+        "key": "12078",
+        "mpkey": "6141",
+        "stat": "A",
+        "code": "CSCI-SHU 210",
+        "section": "006",
+        "crn": "18509",
+        "title": "Data Structures",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Data structures are fundamental programming constructs which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. Prerequisite: ICS or A- in ICP. Equivalency: This course counts for <a href=\"/search/?p=CSCI-UA%20102\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 102\" >CSCI-UA 102</a> Data Structures (NY). Fulfillment: CS Required, Data Science Required, CE Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18504",
+                "Section #:001",
+                "Meets:T 9:45-11:35a",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18505",
+                "Section #:002",
+                "Meets:M 4:15-6:05p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:18506",
+                "Section #:003",
+                "Meets:R 9:45-11:35a",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18507",
+                "Section #:004",
+                "Meets:W 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18508",
+                "Section #:005",
+                "Meets:F 4:15-6:05p",
+                "Instructor:S. Simikin"
+            ],
+            [
+                "Class #:18509",
+                "Section #:006",
+                "Meets:W 8:45-10:35a",
+                "Instructor:S. Simikin"
+            ]
+        ]
+    },
+    {
+        "key": "12068",
+        "mpkey": "4579",
+        "stat": "A",
+        "code": "CSCI-SHU 213",
+        "section": "001",
+        "crn": "18510",
+        "title": "Databases",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "The course covers modeling an application and logical database design, the relational model and relational data definition and data manipulation languages, design of relational databases and normalization theory, physical database design, query processing and optimization, transaction processing focusing on concurrency and recovery. The labs emphasize experiential learning of database systems and applications and an insight into various database management systems and query languages. Prerequisite: <a href=\"/search/?p=CSCI-SHU%20210\" data-action=\"result-detail\" data-group=\"code:CSCI-SHU 210\" >CSCI-SHU 210</a> Data Structures. Fulfillment: Computer Science Major Electives; Data Science Major Required Data Management Courses; Computer Systems Engineering elective.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18510",
+                "Section #:001",
+                "Meets:MW 4:15-5:30p",
+                "Instructor:L. Xu"
+            ]
+        ]
+    },
+    {
+        "key": "12079",
+        "mpkey": "11807",
+        "stat": "A",
+        "code": "CSCI-SHU 215",
+        "section": "001",
+        "crn": "18511",
+        "title": "Operating Systems",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Covers the principles and design of operating systems. Topics include process scheduling and synchronization, deadlocks, memory management (including virtual memory), input-output, and file systems. Programming assignments. Prerequisite: <a href=\"/search/?p=CSCI-SHU%20210\" data-action=\"result-detail\" data-group=\"code:CSCI-SHU 210\" >CSCI-SHU 210</a> Data Structures AND (<a href=\"/search/?p=CENG-SHU%20202\" data-action=\"result-detail\" data-group=\"code:CENG-SHU 202\"  class=\"notoffered\">CENG-SHU 202</a> Computer Architecture or <a href=\"/search/?p=CSCI-UA%20201\" data-action=\"result-detail\" data-group=\"code:CSCI-UA 201\" >CSCI-UA 201</a> Computer Systems Organization). Fulfillment: Computer Science Major Required Courses; Computer Systems Engineering Major Elective; Data Science Major Courses for Concentration in Computer Science.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18511",
+                "Section #:001",
+                "Meets:MW 1:15-3:05p",
+                "Instructor:O. Marin"
+            ]
+        ]
+    },
+    {
+        "key": "12119",
+        "mpkey": "4583",
+        "stat": "A",
+        "code": "CSCI-SHU 2314",
+        "section": "001",
+        "crn": "18512",
+        "title": "Discrete Mathematics",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course is an introduction to discrete mathematics, emphasizing proof and abstraction, as well as applications to the computational sciences. Topics include sets, relations, and functions, graphs and trees, algorithms, proof techniques, and order of magnitude analysis, Boolean algebra and combinatorial circuits, formal logic and languages, automata, and combinatorics, probability, and statistics. Co-requisite OR Pre-requisite: <a href=\"/search/?p=MATH-SHU%20131\" data-action=\"result-detail\" data-group=\"code:MATH-SHU 131\" >MATH-SHU 131</a> or <a href=\"/search/?p=MATH-SHU%20201\" data-action=\"result-detail\" data-group=\"code:MATH-SHU 201\" >MATH-SHU 201</a>. Equivalent to <a href=\"/search/?p=MATH-UA%20120\" data-action=\"result-detail\" data-group=\"code:MATH-UA 120\" >MATH-UA 120</a>. Fulfillment: MATH Additional Mathematics Electives, CS Required, Data Science Concentration in CS.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18512",
+                "Section #:001",
+                "Meets:MW 8:15-9:30a",
+                "Instructor:C. Radhakrishnan"
+            ],
+            [
+                "Class #:18513",
+                "Section #:002",
+                "Meets:F 8:15-9:30a",
+                "Instructor:C. Radhakrishnan"
+            ]
+        ]
+    },
+    {
+        "key": "12120",
+        "mpkey": "4572",
+        "stat": "A",
+        "code": "CSCI-SHU 2314",
+        "section": "002",
+        "crn": "18513",
+        "title": "Discrete Mathematics",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course is an introduction to discrete mathematics, emphasizing proof and abstraction, as well as applications to the computational sciences. Topics include sets, relations, and functions, graphs and trees, algorithms, proof techniques, and order of magnitude analysis, Boolean algebra and combinatorial circuits, formal logic and languages, automata, and combinatorics, probability, and statistics. Co-requisite OR Pre-requisite: <a href=\"/search/?p=MATH-SHU%20131\" data-action=\"result-detail\" data-group=\"code:MATH-SHU 131\" >MATH-SHU 131</a> or <a href=\"/search/?p=MATH-SHU%20201\" data-action=\"result-detail\" data-group=\"code:MATH-SHU 201\" >MATH-SHU 201</a>. Equivalent to <a href=\"/search/?p=MATH-UA%20120\" data-action=\"result-detail\" data-group=\"code:MATH-UA 120\" >MATH-UA 120</a>. Fulfillment: MATH Additional Mathematics Electives, CS Required, Data Science Concentration in CS.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18512",
+                "Section #:001",
+                "Meets:MW 8:15-9:30a",
+                "Instructor:C. Radhakrishnan"
+            ],
+            [
+                "Class #:18513",
+                "Section #:002",
+                "Meets:F 8:15-9:30a",
+                "Instructor:C. Radhakrishnan"
+            ]
+        ]
+    },
+    {
+        "key": "12080",
+        "mpkey": "4539",
+        "stat": "A",
+        "code": "CSCI-SHU 308",
+        "section": "001",
+        "crn": "18514",
+        "title": "Computer Networking",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and link layer switches. The course includes simple quantitative delay and throughput modeling, socket programming and network application development and Ethereal labs. Prerequisite: <a href=\"/search/?p=CSCI-SHU%20101\" data-action=\"result-detail\" data-group=\"code:CSCI-SHU 101\" >CSCI-SHU 101</a> or placement test. Fulfillment: CS Electives, CE Electives, EE Additional Electives.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18514",
+                "Section #:001",
+                "Meets:TR 11:15a-12:30p",
+                "Instructor:G. Liu"
+            ],
+            [
+                "Class #:23911",
+                "Section #:002",
+                "Meets:R 9:45-11a",
+                "Instructor:G. Liu"
+            ]
+        ]
+    },
+    {
+        "key": "12081",
+        "mpkey": "5092",
+        "stat": "A",
+        "code": "CSCI-SHU 308",
+        "section": "002",
+        "crn": "23911",
+        "title": "Computer Networking",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "This course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and link layer switches. The course includes simple quantitative delay and throughput modeling, socket programming and network application development and Ethereal labs. Prerequisite: <a href=\"/search/?p=CSCI-SHU%20101\" data-action=\"result-detail\" data-group=\"code:CSCI-SHU 101\" >CSCI-SHU 101</a> or placement test. Fulfillment: CS Electives, CE Electives, EE Additional Electives.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18514",
+                "Section #:001",
+                "Meets:TR 11:15a-12:30p",
+                "Instructor:G. Liu"
+            ],
+            [
+                "Class #:23911",
+                "Section #:002",
+                "Meets:R 9:45-11a",
+                "Instructor:G. Liu"
+            ]
+        ]
+    },
+    {
+        "key": "12733",
+        "mpkey": "4558",
+        "stat": "A",
+        "code": "CSCI-SHU 360",
+        "section": "001",
+        "crn": "18515",
+        "title": "Machine Learning",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "In this class, students will learn about the theoretical foundations of machine learning and how to apply these to solve real-world data-driven problems. We will apply machine learning to numerical, textual, and image data. Topics will be drawn from perceptron algorithm, regression, gradient descent and stochastic gradient descent, support vector machines, kernels for support vector machines, recommendation systems, decision trees and random forests, maximum likelihood, estimation, logistic regression, neural networks and the back propagation algorithm, convolutional neural networks, recurrent neural networks, Bayesian analysis and naive Bayes, clustering, latent Dirichlet allocation (LDA), sentiment analysis, dimensionality reduction and principle component analysis, reinforcement learning. Prerequisites: Introduction to Computer Programming, Calculus, and (Probability and Statistics OR Theory of Probability OR Statistics for Business &amp; Economics). Fulfillment: Business Analytics Track; Computer Science Electives; Data Science Major Data Analysis Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18515",
+                "Section #:001",
+                "Meets:TR 1:45-3p",
+                "Instructor:S. Wang"
+            ],
+            [
+                "Class #:18516",
+                "Section #:002",
+                "Meets:F 2:45-4p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:25288",
+                "Section #:003",
+                "Meets:F 2:45-4p",
+                "Instructor:Q. Tan"
+            ]
+        ]
+    },
+    {
+        "key": "12734",
+        "mpkey": "4544",
+        "stat": "A",
+        "code": "CSCI-SHU 360",
+        "section": "002",
+        "crn": "18516",
+        "title": "Machine Learning",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "In this class, students will learn about the theoretical foundations of machine learning and how to apply these to solve real-world data-driven problems. We will apply machine learning to numerical, textual, and image data. Topics will be drawn from perceptron algorithm, regression, gradient descent and stochastic gradient descent, support vector machines, kernels for support vector machines, recommendation systems, decision trees and random forests, maximum likelihood, estimation, logistic regression, neural networks and the back propagation algorithm, convolutional neural networks, recurrent neural networks, Bayesian analysis and naive Bayes, clustering, latent Dirichlet allocation (LDA), sentiment analysis, dimensionality reduction and principle component analysis, reinforcement learning. Prerequisites: Introduction to Computer Programming, Calculus, and (Probability and Statistics OR Theory of Probability OR Statistics for Business &amp; Economics). Fulfillment: Business Analytics Track; Computer Science Electives; Data Science Major Data Analysis Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18515",
+                "Section #:001",
+                "Meets:TR 1:45-3p",
+                "Instructor:S. Wang"
+            ],
+            [
+                "Class #:18516",
+                "Section #:002",
+                "Meets:F 2:45-4p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:25288",
+                "Section #:003",
+                "Meets:F 2:45-4p",
+                "Instructor:Q. Tan"
+            ]
+        ]
+    },
+    {
+        "key": "12735",
+        "mpkey": "4544",
+        "stat": "A",
+        "code": "CSCI-SHU 360",
+        "section": "003",
+        "crn": "25288",
+        "title": "Machine Learning",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Recitation",
+        "status": "Active",
+        "component": "Recitation",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "In this class, students will learn about the theoretical foundations of machine learning and how to apply these to solve real-world data-driven problems. We will apply machine learning to numerical, textual, and image data. Topics will be drawn from perceptron algorithm, regression, gradient descent and stochastic gradient descent, support vector machines, kernels for support vector machines, recommendation systems, decision trees and random forests, maximum likelihood, estimation, logistic regression, neural networks and the back propagation algorithm, convolutional neural networks, recurrent neural networks, Bayesian analysis and naive Bayes, clustering, latent Dirichlet allocation (LDA), sentiment analysis, dimensionality reduction and principle component analysis, reinforcement learning. Prerequisites: Introduction to Computer Programming, Calculus, and (Probability and Statistics OR Theory of Probability OR Statistics for Business &amp; Economics). Fulfillment: Business Analytics Track; Computer Science Electives; Data Science Major Data Analysis Courses.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18515",
+                "Section #:001",
+                "Meets:TR 1:45-3p",
+                "Instructor:S. Wang"
+            ],
+            [
+                "Class #:18516",
+                "Section #:002",
+                "Meets:F 2:45-4p",
+                "Instructor:Y. Tam"
+            ],
+            [
+                "Class #:25288",
+                "Section #:003",
+                "Meets:F 2:45-4p",
+                "Instructor:Q. Tan"
+            ]
+        ]
+    },
+    {
+        "key": "14866",
+        "mpkey": "12169",
+        "stat": "A",
+        "code": "CSCI-SHU 375",
+        "section": "001",
+        "crn": "18517",
+        "title": "Reinforcement Learning",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Prerequisite: Machine Learning AND (Probability and Statistics OR Theory of Probability). Fulfillment: Computer Science Major Electives; Data Science Major Courses for Concentration in Artificial Intelligence.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18517",
+                "Section #:001",
+                "Meets:TW 9:45-11a",
+                "Instructor:M. Lauriere"
+            ]
+        ]
+    },
+    {
+        "key": "12082",
+        "mpkey": "21418",
+        "stat": "A",
+        "code": "CSCI-SHU 378",
+        "section": "001",
+        "crn": "18518",
+        "title": "Introduction to Cryptography",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Lecture",
+        "status": "Active",
+        "component": "Lecture",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "The study of modern cryptography investigates mathematical techniques for securing information, systems and distributed computations against adversarial attacks. We introduce fundamental concepts of this study. Emphasis will be placed on rigorous proofs of security based on precise definitions and assumptions. Topics include: one-way functions, encryption, signatures, pseudorandom number generators and zero-knowledge proofs. Prerequisite: Algorithms, theory of probability, or permission of the instructor. Fulfillment: Mathematics Additional Electives; Honors Mathematics Electives; CS Electives.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:18518",
+                "Section #:001",
+                "Meets:T 3:15-4:30p; W 8:15-9:30a",
+                "Instructor:S. Guo"
+            ]
+        ]
+    },
+    {
+        "key": "13576",
+        "mpkey": "1",
+        "stat": "A",
+        "code": "CSCI-SHU 420",
+        "section": "001",
+        "crn": "22524",
+        "title": "Computer Science Senior Project",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "4 Hour Project",
+        "status": "Active",
+        "component": "Project",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "The purpose of the Senior Project is for the students to apply the theoretical knowledge they acquired during the Computer Science program to a concrete project in a realistic setting. During the semester, students engage in the entire process of solving a real-world computer science project. It requires students to pursue a long-term, mentored learning experience that culminates in a piece of original work. At the end of the semester, the proposed work comes to fruition in the form of a working software prototype, a written technical report, and an oral presentation at a capstone project symposium. Prerequisite: senior standing. Fulfillment: CS Required.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:22524",
+                "Section #:001",
+                "Meets:Does Not Meet",
+                "Instructor:P. Spathis"
+            ]
+        ]
+    },
+    {
+        "key": "13255",
+        "mpkey": "1",
+        "stat": "A",
+        "code": "CSCI-SHU 997",
+        "section": "001",
+        "crn": "25361",
+        "title": "Computer Science Independent Study",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "2-4 Hour Independent Study",
+        "status": "Active",
+        "component": "Independent Study",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Prerequisite: permission of the department. 2-4 credits Students majoring in computer science are permitted to work on an individual basis under the supervision of a full-time faculty member in the department if they have maintained an overall GPA of 3.0 and a GPA of 3.5 in computer science and have a study proposal that is approved by a computer science professor. Students are expected to spend about two to three hours a week per credit (a 4-credit IS would involve about ten to twelve hours a week) on their project. Fulfillment: Computer Science Major Electives.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:25361",
+                "Section #:001",
+                "Meets:Does Not Meet",
+                "Instructor:L. Guo"
+            ],
+            [
+                "Class #:26764",
+                "Section #:002",
+                "Meets:Does Not Meet",
+                "Instructor:Q. Tan"
+            ]
+        ]
+    },
+    {
+        "key": "13256",
+        "mpkey": "1",
+        "stat": "A",
+        "code": "CSCI-SHU 997",
+        "section": "002",
+        "crn": "26764",
+        "title": "Computer Science Independent Study",
+        "college": "NYU Shanghai",
+        "topic": "",
+        "xlist": "",
+        "hours_html": "2-4 Hour Independent Study",
+        "status": "Active",
+        "component": "Independent Study",
+        "instructional_method": "In-Person",
+        "campus_location": "Shanghai",
+        "registration_restrictions": "",
+        "description": "Prerequisite: permission of the department. 2-4 credits Students majoring in computer science are permitted to work on an individual basis under the supervision of a full-time faculty member in the department if they have maintained an overall GPA of 3.0 and a GPA of 3.5 in computer science and have a study proposal that is approved by a computer science professor. Students are expected to spend about two to three hours a week per credit (a 4-credit IS would involve about ten to twelve hours a week) on their project. Fulfillment: Computer Science Major Electives.",
+        "dates_html": "2023-08-28 through 2023-12-08",
+        "clssnotes": "",
+        "srcdb": "1238",
+        "allInGroup": [],
+        "start_date": "2023-08-28",
+        "end_date": "2023-12-08",
+        "section_list": [
+            [
+                "Class #:25361",
+                "Section #:001",
+                "Meets:Does Not Meet",
+                "Instructor:L. Guo"
+            ],
+            [
+                "Class #:26764",
+                "Section #:002",
+                "Meets:Does Not Meet",
+                "Instructor:Q. Tan"
+            ]
+        ]
+    }
+]

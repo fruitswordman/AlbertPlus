@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Pathway Planner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <!-- Example of a navigation bar with a logo and profile icon -->
+        <nav>
+            <div class="logo">Albert+</div>
+            <div class="nav-icons">
+                <button type="button" class="search-button">🔍</button>
+                <button type="button" class="profile-button">👤</button>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Search bar section -->
+        <section id="search-courses">
+            <input type="search" placeholder="Search courses" />
+            <!-- We'll add more here as needed -->
+        </section>
+
+         <!-- Main content flex container -->
+     <div class="main-content">
+            <!-- Academic Pathway Section -->
+            <section id="academic-pathway">
+                <h2>Academic Pathway</h2>
+                <!-- Semester row for Fall 2023 -->
+                <div class="semester-block">
+                    <h3>Fall 2023</h3>
+                    <div class="courses-container">
+                        <div class="course-block">
+                            <span class="course-icon">📘</span>
+                            <span class="course-title">GPS</span>
+                            <button class="dropdown-toggle" onclick="toggleDropdown(event, this)">Select Course</button>
+                            <div class="course-dropdown">
+                                <!-- Dropdown content will be populated from Python -->
+                            </div>
+                        </div>
+                        <div class="course-block">
+                            <span class="course-icon">🧮</span>
+                            <span class="course-title">Calculus</span>
+                        </div>
+                        <div class="course-block">
+                            <span class="course-icon">💻</span>
+                            <span class="course-title">Intro to Python</span>
+                        </div>
+                        <div class="course-block">
+                            <span class="course-icon">📚</span>
+                            <span class="course-title">English for AP</span>
+                        </div>
+                </div>
+                <!-- Add additional semesters here -->
+            </section>
+
+
+
+            <!-- Chat with Pathfinder section -->
+            <aside id="chat-pathfinder">
+                <div class="chat-header">
+                    <h3>Chat with Pathfinder</h3>
+                </div>
+                <div class="chat-messages">
+                    <!-- Messages will be dynamically added here -->
+                </div>
+                <div class="chat-input">
+                    <input type="text" placeholder="Type your message here..." />
+                    <button type="button">Send</button>
+                </div>
+            </aside>
+        </div>
+
+        <!-- App download section -->
+        <section id="app-download">
+            <h3>Download the Albert+ App</h3>
+            <div class="download-buttons">
+                <a href="link-to-appstore" class="app-store">Download from App Store</a>
+                <a href="link-to-googleplay" class="google-play">Download from Google Play</a>
+                <a href="link-to-academicpla" class="academic-pla">Download from AcademicPla</a>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <!-- Footer content with contact info and social media links -->
+        <p>Contact us at <a href="mailto:support@albertplus.com">support@albertplus.com</a></p>
+        <div class="social-media">
+            <a href="instagram-link" class="instagram">Instagram</a>
+            <a href="facebook-link" class="facebook">Facebook</a>
+            <a href="twitter-link" class="twitter">Twitter</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
