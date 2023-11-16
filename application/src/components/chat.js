@@ -46,7 +46,7 @@ const Chat = () => {
               }`}
           >
             <span className={styles.messageSender}>
-              {message.sender === 'User' ? 'You' : message.sender}:
+              {message.sender === 'User' ? 'You: ' : 'PathFinder: '}
             </span>
             {message.text}
           </div>
