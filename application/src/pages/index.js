@@ -37,10 +37,10 @@ export default function Home() {
   const [messages, setMessages] = useState(chatMessagesData);
 
   // Function to simulate adding a new course to the pathway
-  const handleCourseAddFromSearch = (courseName) => {
-    // Prevent adding duplicate courses
-    if (courses.some(course => course.name === courseName)) {
-      console.log('Course already in the pathway');
+  const handleCourseAdd = (courseName) => {
+    // Check for duplicate courses and course limit
+    if (courses.some(course => course.name === courseName) || courses.length >= 5) {
+      console.log("Course already added or maximum limit reached");
       return;
     }
     setCourses([...courses, { name: courseName, term: 'Fall 2023' }]);
@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <SearchResults results={searchResults} onResultClick={handleCourseAddFromSearch} />
+      <SearchResults results={searchResults} onResultClick={handleCourseAdd} />
       <div className={styles.mainContainer}>
         <div className={styles.academicPathwayContainer}>
           <AcademicPathway courses={courses} />
