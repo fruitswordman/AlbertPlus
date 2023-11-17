@@ -1,9 +1,20 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import styles from '../styles/chat.module.css'; // Make sure the path to your CSS module is correct
 
 const Chat = () => {
   const [messages, setMessages] = useState([]);
   const [inputMessage, setInputMessage] = useState('');
+  const messagesEndRef = useRef(null);
+
+  // Function to scroll to the last message
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  // Scroll to bottom every time messages update
+  useEffect(() => {
+    scrollToBottom();
+  }, [messages]);
 
   const sendMessage = (message) => {
     fetch('http://127.0.0.1:5000/send_message', {
@@ -51,6 +62,8 @@ const Chat = () => {
             {message.text}
           </div>
         ))}
+        {/* Invisible element to auto-scroll to */}
+        <div ref={messagesEndRef} />
       </div>
 
       <form onSubmit={handleSendMessage} className={styles.inputArea}>

@@ -97,3 +97,11 @@
     cursor: pointer;
     font-size: 1rem;
 }
+
+.messagesContainer {
+    max-height: 400px; /* Adjust the height as needed */
+    overflow-y: auto; /* Enables scrollbar if content overflows */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
