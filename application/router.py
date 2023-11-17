@@ -1,27 +1,33 @@
 # app.py
-from flask import Flask, send_from_directory, request, jsonify
+from flask import Flask, request, jsonify
 from flask_cors import CORS
-import os
+from course_extractor import Coursebot
+
+from chatbot import Chatbot
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-# Serve React App
-@app.route('/', defaults={'path': ''})
-@app.route('/<path:path>')
-def serve(path):
-    if path != "" and os.path.exists(app.static_folder + '/' + path):
-        return send_from_directory(app.static_folder, path)
-    else:
-        return send_from_directory(app.static_folder, 'index.html')
+coursebot = Coursebot()
 
-@app.route('/send_message', methods=['POST'])
+
+def pathfinder(message, bot=coursebot):
+    output = bot.get_info(message)
+
+    return output
+
+
+@app.route("/send_message", methods=["POST"])
 def send_message():
     data = request.json
-    message = data['message']
-    # Process the message with Python
-    response = f"Python processed message: {message}"
-    return jsonify({'response': response})
+    message = data["message"]
 
-if __name__ == '__main__':
+    processed_message = pathfinder(message)
+
+    # Process the message with Python
+    response = f"{processed_message}"
+    return jsonify({"response": response})
+
+
+if __name__ == "__main__":
     app.run(debug=True)
