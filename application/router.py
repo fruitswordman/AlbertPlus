@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from course_extractor import Coursebot
 
-from chatbot import Chatbot
+# from chatbot import Chatbot
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
