@@ -46,6 +46,10 @@ export default function Home() {
     setCourses([...courses, { name: courseName, term: 'Fall 2023' }]);
   };
 
+  const handleCourseRemove = (courseName) => {
+    setCourses(courses.filter(course => course.name !== courseName));
+  };
+
   // Function to simulate sending a message
   const handleSendMessage = (newMessage) => {
     setMessages([...messages, { sender: 'Steve', text: newMessage }]);
@@ -57,7 +61,7 @@ export default function Home() {
       <SearchResults results={searchResults} onResultClick={handleCourseAdd} />
       <div className={styles.mainContainer}>
         <div className={styles.academicPathwayContainer}>
-          <AcademicPathway courses={courses} />
+          <AcademicPathway courses={courses} removeCourse={handleCourseRemove} />
         </div>
         <div className={styles.chatContainer}>
           <Chat messages={messages} onSendMessage={handleSendMessage} />

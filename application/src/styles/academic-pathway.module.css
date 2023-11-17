@@ -26,6 +26,7 @@
 .courseBlock {
     flex: 1;
     /* Each block will take up equal space */
+    position: relative;
     margin: 0 10px;
     /* Adds space between blocks */
     padding: 20px;
@@ -49,4 +50,17 @@
 
 .courseTerm {
     font-size: 0.875rem;
+}
+
+.deleteButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgb(188, 188, 188);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0 4px 0 4px;
+    /* Rounded top-right corner */
+    padding: 5px;
 }
