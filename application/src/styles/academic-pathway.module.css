@@ -23,6 +23,14 @@
     /* Distributes the course blocks evenly */
 }
 
+/* Add this to your academic-pathway.module.css */
+.courseTermContainer {
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+    padding: 0.5rem;
+  }  
+
 .courseBlock {
     flex: 1;
     /* Each block will take up equal space */
