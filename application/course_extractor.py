@@ -31,7 +31,7 @@ SYSTEM_PROMPT = """
 class Coursebot:
     def __init__(self) -> None:
         # client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-        client = OpenAI(api_key="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")
+        client = OpenAI(api_key="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")
         self.client = client
 
         self.assistant = self.client.beta.assistants.create(

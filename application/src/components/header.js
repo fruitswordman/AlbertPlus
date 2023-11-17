@@ -9,8 +9,6 @@ export default function Header() {
         <input type="text" className={styles.searchInput} placeholder="Search courses" />
       </div>
       <div className={styles.icons}>
-        <span className={styles.icon}>♥</span>
-        <span className={styles.icon}>🛒</span>
         <span className={styles.icon}>👤</span>
       </div>
     </header>
