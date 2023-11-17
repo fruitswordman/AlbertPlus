@@ -7,8 +7,8 @@ import time
 
 class Coursebot:
     def __init__(self) -> None:
-        client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-
+        # client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+        client = OpenAI(api_key="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")
         self.client = client
 
         file = client.files.create(
