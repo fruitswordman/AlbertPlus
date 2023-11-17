@@ -10,7 +10,7 @@ import styles from '../styles/home.module.css';
 export default function Home() {
   // Default search results data
   const searchResultsData = [
-    'Intro to ICDS',
+    'ICDS',
     'Data Structures',
     'Algorithms',
     'Operating Systems',
@@ -21,7 +21,7 @@ export default function Home() {
   const academicPathwayData = [
     { name: 'GPS', term: 'Fall 2023' },
     { name: 'Calculus', term: 'Fall 2023' },
-    { name: 'Intro to Python', term: 'Fall 2023' },
+    { name: 'ICP', term: 'Fall 2023' },
     // Add more courses as needed
   ];
 
